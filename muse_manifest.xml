@@ -1,34 +1,34 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.mydentalpro.net" resolutions="1x" timestamp="1632511558268">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.mydentalpro.net" resolutions="1x" timestamp="1632775292409">
   <folder name="css">
     <file name="site_global.css" crc="479340230"/>
     <file name="master_master.css" crc="4075033497" ref="index:dentists:form:patients:insurers:contact-us"/>
     <file name="nomq_preview_master_master.css" crc="3835261326" ref="index:dentists:form:patients:insurers:contact-us"/>
-    <file name="master_header---footer.css" crc="230469393" ref="children-community-health-plan:index:dentists:provider-login:form:my-choice-wisconsin:together-with-cchp:patients:insurers:contact-us"/>
+    <file name="master_header---footer.css" crc="4064295881" ref="children-community-health-plan:index:dentists:provider-login:form:my-choice-wisconsin:together-with-cchp:patients:insurers:contact-us"/>
     <file name="nomq_preview_master_header---footer.css" crc="3957940486" ref="children-community-health-plan:index:dentists:provider-login:form:my-choice-wisconsin:together-with-cchp:patients:insurers:contact-us"/>
     <file name="children-community-health-plan.css" crc="96372120" ref="children-community-health-plan"/>
     <file name="nomq_children-community-health-plan.css" crc="24379933" ref="children-community-health-plan"/>
-    <file name="index.css" crc="3892092806" ref="index"/>
-    <file name="nomq_index.css" crc="4273054613" ref="index"/>
+    <file name="index.css" crc="4263976240" ref="index"/>
+    <file name="nomq_index.css" crc="4237291382" ref="index"/>
     <file name="iefonts_index.css" crc="270989731" ref="index"/>
-    <file name="dentists.css" crc="3930879317" ref="dentists"/>
-    <file name="nomq_dentists.css" crc="3880819875" ref="dentists"/>
+    <file name="dentists.css" crc="3894707659" ref="dentists"/>
+    <file name="nomq_dentists.css" crc="3850749657" ref="dentists"/>
     <file name="iefonts_dentists.css" crc="270989731" ref="dentists"/>
     <file name="provider-login.css" crc="4079474715" ref="provider-login"/>
     <file name="nomq_provider-login.css" crc="371746082" ref="provider-login"/>
-    <file name="form.css" crc="364725181" ref="form"/>
-    <file name="nomq_form.css" crc="4050891372" ref="form"/>
+    <file name="form.css" crc="3787638511" ref="form"/>
+    <file name="nomq_form.css" crc="259511147" ref="form"/>
     <file name="iefonts_form.css" crc="270989731" ref="form"/>
     <file name="my-choice-wisconsin.css" crc="3865086010" ref="my-choice-wisconsin"/>
     <file name="nomq_my-choice-wisconsin.css" crc="4056257816" ref="my-choice-wisconsin"/>
     <file name="together-with-cchp.css" crc="4279036596" ref="together-with-cchp"/>
     <file name="nomq_together-with-cchp.css" crc="82251294" ref="together-with-cchp"/>
-    <file name="patients.css" crc="429227309" ref="patients"/>
-    <file name="nomq_patients.css" crc="296878073" ref="patients"/>
+    <file name="patients.css" crc="4117033279" ref="patients"/>
+    <file name="nomq_patients.css" crc="3901717212" ref="patients"/>
     <file name="iefonts_patients.css" crc="270989731" ref="patients"/>
-    <file name="insurers.css" crc="451010763" ref="insurers"/>
-    <file name="nomq_insurers.css" crc="3850399962" ref="insurers"/>
+    <file name="insurers.css" crc="4135328941" ref="insurers"/>
+    <file name="nomq_insurers.css" crc="4163184639" ref="insurers"/>
     <file name="iefonts_insurers.css" crc="270989731" ref="insurers"/>
-    <file name="contact-us.css" crc="4081072150" ref="contact-us"/>
+    <file name="contact-us.css" crc="3830495977" ref="contact-us"/>
     <file name="nomq_contact-us.css" crc="329982469" ref="contact-us"/>
     <file name="iefonts_contact-us.css" crc="270989731" ref="contact-us"/>
   </folder>
@@ -51,49 +51,49 @@
   <folder name="images">
     <file name="square_bg-u3062-fr.png" crc="465786958" ref="patients"/>
     <file name="dpowlogo_shadow.svg" crc="422008285" seo="true" ref="patients:children-community-health-plan:my-choice-wisconsin:provider-login:dentists:insurers:contact-us:form:index:together-with-cchp">
-      <caption webpage="contact-us" alt=""/>
-      <caption webpage="contact-us" alt=""/>
-      <caption webpage="patients" alt=""/>
-      <caption webpage="patients" alt=""/>
-      <caption webpage="dentists" alt=""/>
-      <caption webpage="dentists" alt=""/>
-      <caption webpage="form" alt=""/>
-      <caption webpage="form" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="provider-login" alt=""/>
-      <caption webpage="provider-login" alt=""/>
       <caption webpage="children-community-health-plan" alt=""/>
       <caption webpage="children-community-health-plan" alt=""/>
-      <caption webpage="insurers" alt=""/>
-      <caption webpage="insurers" alt=""/>
-      <caption webpage="my-choice-wisconsin" alt=""/>
-      <caption webpage="my-choice-wisconsin" alt=""/>
       <caption webpage="together-with-cchp" alt=""/>
       <caption webpage="together-with-cchp" alt=""/>
+      <caption webpage="dentists" alt=""/>
+      <caption webpage="dentists" alt=""/>
+      <caption webpage="insurers" alt=""/>
+      <caption webpage="insurers" alt=""/>
+      <caption webpage="provider-login" alt=""/>
+      <caption webpage="provider-login" alt=""/>
+      <caption webpage="my-choice-wisconsin" alt=""/>
+      <caption webpage="my-choice-wisconsin" alt=""/>
+      <caption webpage="contact-us" alt=""/>
+      <caption webpage="contact-us" alt=""/>
+      <caption webpage="form" alt=""/>
+      <caption webpage="form" alt=""/>
+      <caption webpage="patients" alt=""/>
+      <caption webpage="patients" alt=""/>
     </file>
     <file name="dpowlogo_shadow_poster_.png" crc="392446086" ref="patients"/>
     <file name="dpowlogo.svg" crc="3786366968" seo="true" ref="patients:children-community-health-plan:my-choice-wisconsin:provider-login:dentists:insurers:contact-us:form:index:together-with-cchp">
-      <caption webpage="contact-us" alt=""/>
-      <caption webpage="contact-us" alt=""/>
-      <caption webpage="patients" alt=""/>
-      <caption webpage="patients" alt=""/>
-      <caption webpage="dentists" alt=""/>
-      <caption webpage="dentists" alt=""/>
-      <caption webpage="form" alt=""/>
-      <caption webpage="form" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="provider-login" alt=""/>
-      <caption webpage="provider-login" alt=""/>
       <caption webpage="children-community-health-plan" alt=""/>
       <caption webpage="children-community-health-plan" alt=""/>
-      <caption webpage="insurers" alt=""/>
-      <caption webpage="insurers" alt=""/>
-      <caption webpage="my-choice-wisconsin" alt=""/>
-      <caption webpage="my-choice-wisconsin" alt=""/>
       <caption webpage="together-with-cchp" alt=""/>
       <caption webpage="together-with-cchp" alt=""/>
+      <caption webpage="dentists" alt=""/>
+      <caption webpage="dentists" alt=""/>
+      <caption webpage="insurers" alt=""/>
+      <caption webpage="insurers" alt=""/>
+      <caption webpage="provider-login" alt=""/>
+      <caption webpage="provider-login" alt=""/>
+      <caption webpage="my-choice-wisconsin" alt=""/>
+      <caption webpage="my-choice-wisconsin" alt=""/>
+      <caption webpage="contact-us" alt=""/>
+      <caption webpage="contact-us" alt=""/>
+      <caption webpage="form" alt=""/>
+      <caption webpage="form" alt=""/>
+      <caption webpage="patients" alt=""/>
+      <caption webpage="patients" alt=""/>
     </file>
     <file name="dpowlogo_poster_.png" crc="81595910" ref="patients"/>
     <file name="blank.gif" crc="4208392903" ref="patients:children-community-health-plan:my-choice-wisconsin:provider-login:dentists:insurers:contact-us:form:index:together-with-cchp"/>
@@ -110,14 +110,6 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="contact-us" alt=""/>
-      <caption webpage="contact-us" alt=""/>
-      <caption webpage="contact-us" alt=""/>
-      <caption webpage="contact-us" alt=""/>
-      <caption webpage="patients" alt=""/>
-      <caption webpage="patients" alt=""/>
-      <caption webpage="patients" alt=""/>
-      <caption webpage="patients" alt=""/>
       <caption webpage="insurers" alt=""/>
       <caption webpage="insurers" alt=""/>
       <caption webpage="insurers" alt=""/>
@@ -126,10 +118,18 @@
       <caption webpage="dentists" alt=""/>
       <caption webpage="dentists" alt=""/>
       <caption webpage="dentists" alt=""/>
+      <caption webpage="contact-us" alt=""/>
+      <caption webpage="contact-us" alt=""/>
+      <caption webpage="contact-us" alt=""/>
+      <caption webpage="contact-us" alt=""/>
       <caption webpage="form" alt=""/>
       <caption webpage="form" alt=""/>
       <caption webpage="form" alt=""/>
       <caption webpage="form" alt=""/>
+      <caption webpage="patients" alt=""/>
+      <caption webpage="patients" alt=""/>
+      <caption webpage="patients" alt=""/>
+      <caption webpage="patients" alt=""/>
     </file>
     <file name="square_bg.png" crc="4047119751" ref="patients">
       <caption webpage="patients" alt=""/>
@@ -142,90 +142,90 @@
       <caption webpage="together-with-cchp" alt=""/>
     </file>
     <file name="dentalprofessionals.svg" crc="4203633646" seo="true" ref="patients:children-community-health-plan:my-choice-wisconsin:provider-login:dentists:insurers:contact-us:form:index:together-with-cchp">
-      <caption webpage="contact-us" alt=""/>
-      <caption webpage="contact-us" alt=""/>
-      <caption webpage="contact-us" alt=""/>
-      <caption webpage="contact-us" alt=""/>
-      <caption webpage="contact-us" alt=""/>
-      <caption webpage="contact-us" alt=""/>
-      <caption webpage="patients" alt=""/>
-      <caption webpage="patients" alt=""/>
-      <caption webpage="patients" alt=""/>
-      <caption webpage="patients" alt=""/>
-      <caption webpage="patients" alt=""/>
-      <caption webpage="patients" alt=""/>
-      <caption webpage="dentists" alt=""/>
-      <caption webpage="dentists" alt=""/>
-      <caption webpage="dentists" alt=""/>
-      <caption webpage="dentists" alt=""/>
-      <caption webpage="dentists" alt=""/>
-      <caption webpage="dentists" alt=""/>
-      <caption webpage="form" alt=""/>
-      <caption webpage="form" alt=""/>
-      <caption webpage="form" alt=""/>
-      <caption webpage="form" alt=""/>
-      <caption webpage="form" alt=""/>
-      <caption webpage="form" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="provider-login" alt=""/>
-      <caption webpage="provider-login" alt=""/>
-      <caption webpage="provider-login" alt=""/>
-      <caption webpage="provider-login" alt=""/>
-      <caption webpage="provider-login" alt=""/>
-      <caption webpage="provider-login" alt=""/>
       <caption webpage="children-community-health-plan" alt=""/>
       <caption webpage="children-community-health-plan" alt=""/>
       <caption webpage="children-community-health-plan" alt=""/>
       <caption webpage="children-community-health-plan" alt=""/>
       <caption webpage="children-community-health-plan" alt=""/>
       <caption webpage="children-community-health-plan" alt=""/>
-      <caption webpage="insurers" alt=""/>
-      <caption webpage="insurers" alt=""/>
-      <caption webpage="insurers" alt=""/>
-      <caption webpage="insurers" alt=""/>
-      <caption webpage="insurers" alt=""/>
-      <caption webpage="insurers" alt=""/>
-      <caption webpage="my-choice-wisconsin" alt=""/>
-      <caption webpage="my-choice-wisconsin" alt=""/>
-      <caption webpage="my-choice-wisconsin" alt=""/>
-      <caption webpage="my-choice-wisconsin" alt=""/>
-      <caption webpage="my-choice-wisconsin" alt=""/>
-      <caption webpage="my-choice-wisconsin" alt=""/>
       <caption webpage="together-with-cchp" alt=""/>
       <caption webpage="together-with-cchp" alt=""/>
       <caption webpage="together-with-cchp" alt=""/>
       <caption webpage="together-with-cchp" alt=""/>
       <caption webpage="together-with-cchp" alt=""/>
       <caption webpage="together-with-cchp" alt=""/>
+      <caption webpage="dentists" alt=""/>
+      <caption webpage="dentists" alt=""/>
+      <caption webpage="dentists" alt=""/>
+      <caption webpage="dentists" alt=""/>
+      <caption webpage="dentists" alt=""/>
+      <caption webpage="dentists" alt=""/>
+      <caption webpage="insurers" alt=""/>
+      <caption webpage="insurers" alt=""/>
+      <caption webpage="insurers" alt=""/>
+      <caption webpage="insurers" alt=""/>
+      <caption webpage="insurers" alt=""/>
+      <caption webpage="insurers" alt=""/>
+      <caption webpage="provider-login" alt=""/>
+      <caption webpage="provider-login" alt=""/>
+      <caption webpage="provider-login" alt=""/>
+      <caption webpage="provider-login" alt=""/>
+      <caption webpage="provider-login" alt=""/>
+      <caption webpage="provider-login" alt=""/>
+      <caption webpage="my-choice-wisconsin" alt=""/>
+      <caption webpage="my-choice-wisconsin" alt=""/>
+      <caption webpage="my-choice-wisconsin" alt=""/>
+      <caption webpage="my-choice-wisconsin" alt=""/>
+      <caption webpage="my-choice-wisconsin" alt=""/>
+      <caption webpage="my-choice-wisconsin" alt=""/>
+      <caption webpage="contact-us" alt=""/>
+      <caption webpage="contact-us" alt=""/>
+      <caption webpage="contact-us" alt=""/>
+      <caption webpage="contact-us" alt=""/>
+      <caption webpage="contact-us" alt=""/>
+      <caption webpage="contact-us" alt=""/>
+      <caption webpage="form" alt=""/>
+      <caption webpage="form" alt=""/>
+      <caption webpage="form" alt=""/>
+      <caption webpage="form" alt=""/>
+      <caption webpage="form" alt=""/>
+      <caption webpage="form" alt=""/>
+      <caption webpage="patients" alt=""/>
+      <caption webpage="patients" alt=""/>
+      <caption webpage="patients" alt=""/>
+      <caption webpage="patients" alt=""/>
+      <caption webpage="patients" alt=""/>
+      <caption webpage="patients" alt=""/>
     </file>
     <file name="dentalprofessionals_poster_.png" crc="11580666" ref="patients"/>
     <file name="wida image rotator-u25353-fr.png" crc="4015872262" ref="patients"/>
     <file name="wi.svg" crc="235546707" seo="true" ref="patients:children-community-health-plan:my-choice-wisconsin:provider-login:dentists:insurers:contact-us:form:index:together-with-cchp">
-      <caption webpage="contact-us" alt=""/>
-      <caption webpage="contact-us" alt=""/>
-      <caption webpage="patients" alt=""/>
-      <caption webpage="patients" alt=""/>
-      <caption webpage="dentists" alt=""/>
-      <caption webpage="dentists" alt=""/>
-      <caption webpage="form" alt=""/>
-      <caption webpage="form" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="provider-login" alt=""/>
-      <caption webpage="provider-login" alt=""/>
       <caption webpage="children-community-health-plan" alt=""/>
       <caption webpage="children-community-health-plan" alt=""/>
-      <caption webpage="insurers" alt=""/>
-      <caption webpage="insurers" alt=""/>
-      <caption webpage="my-choice-wisconsin" alt=""/>
-      <caption webpage="my-choice-wisconsin" alt=""/>
       <caption webpage="together-with-cchp" alt=""/>
       <caption webpage="together-with-cchp" alt=""/>
+      <caption webpage="dentists" alt=""/>
+      <caption webpage="dentists" alt=""/>
+      <caption webpage="insurers" alt=""/>
+      <caption webpage="insurers" alt=""/>
+      <caption webpage="provider-login" alt=""/>
+      <caption webpage="provider-login" alt=""/>
+      <caption webpage="my-choice-wisconsin" alt=""/>
+      <caption webpage="my-choice-wisconsin" alt=""/>
+      <caption webpage="contact-us" alt=""/>
+      <caption webpage="contact-us" alt=""/>
+      <caption webpage="form" alt=""/>
+      <caption webpage="form" alt=""/>
+      <caption webpage="patients" alt=""/>
+      <caption webpage="patients" alt=""/>
     </file>
     <file name="wi_poster_.png" crc="510786164" ref="patients"/>
     <file name="tooth-u65003.png" crc="478528271" ref="patients"/>
@@ -311,14 +311,14 @@
       <caption webpage="together-with-cchp" alt=""/>
     </file>
   </folder>
-  <file name="patients.html" crc="3880325317" seo="true" mt="1632511207397" redirect="true"/>
+  <file name="patients.html" crc="389553212" seo="true" mt="1632775258412" redirect="true"/>
   <file name="children-community-health-plan.html" crc="3888241421" seo="true" mt="1632507922436" redirect="true"/>
   <file name="my-choice-wisconsin.html" crc="3885666405" seo="true" mt="1632507922436" redirect="true"/>
   <file name="provider-login.html" crc="3851582642" seo="true" mt="1632507922436" redirect="true"/>
-  <file name="dentists.html" crc="3903527322" seo="true" mt="1632511207397" redirect="true"/>
-  <file name="insurers.html" crc="89430975" seo="true" mt="1632511207397" redirect="true"/>
-  <file name="contact-us.html" crc="301574984" seo="true" mt="1632511207397" redirect="true"/>
-  <file name="form.html" crc="469566518" seo="true" mt="1632511207397" redirect="true"/>
-  <file name="index.html" crc="4122928322" seo="true" mt="1632511422177" redirect="true"/>
+  <file name="dentists.html" crc="4188529092" seo="true" mt="1632775247141" redirect="true"/>
+  <file name="insurers.html" crc="3944162918" seo="true" mt="1632775208018" redirect="true"/>
+  <file name="contact-us.html" crc="3921436356" seo="true" mt="1632775221312" redirect="true"/>
+  <file name="form.html" crc="250289216" seo="true" mt="1632774751910" redirect="true"/>
+  <file name="index.html" crc="4099211525" seo="true" mt="1632775269570" redirect="true"/>
   <file name="together-with-cchp.html" crc="413592617" seo="true" mt="1632507922436" redirect="true"/>
 </manifest>
